@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: gray; /* Sets the background color of the entire page */
+}
+
+img { 
+    height: 100px;
+    width: 200px;
+}
+
+.color-title {
+  font-weight: thick;
+}
+
+  h1 {
+    font-weight: normal;
+  }
+
+   
+  #red {
+    color: red;
+  }
+  
+  #blue {
+    color: blue;
+  }
+
+  #yellow {
+    color: yellow;
+  }
+  
+  #green {
+    color: green;
+  }
+
+  #backgroud {
+    color: orange;
+  }
+  
+  p {
+    color: white;
+    text-align: center;
+    line-height: 100px; /* Vertically centers the text in the box */
+    margin: 0; /* Removes default paragraph margin */
+  }
+  
